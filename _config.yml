@@ -1,17 +1,17 @@
-typography_spectrum: 0.7852911131922156
-color:
-  brandStrength: 0.7897927707526833
-  lightness: 0.9433705590199679
-  saturation: 0.9868031684309244
-  rhythmicContrast: 0.2842227222863585
-  brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-github: true
 layout_spectrum: 0.8057627873495221
+typography_spectrum: 0.2476331638172269
+color:
+  brandStrength: 0.697402051417157
+  lightness: 0.9682689856272191
+  saturation: 0.9506488593760878
+  rhythmicContrast: 0.2662325163837522
+  brandColors:
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+github: true
 name: revista FRESH
 title: F R E S H
 description: revista
