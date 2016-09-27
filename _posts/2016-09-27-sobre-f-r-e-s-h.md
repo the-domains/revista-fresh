@@ -1,17 +1,19 @@
 ---
-datePublished: '2016-09-27T20:07:03.295Z'
+datePublished: '2016-09-27T20:08:23.271Z'
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-09-27T20:06:23.979Z'
+dateModified: '2016-09-27T20:08:22.832Z'
 title: Sobre F R E S H
 publisher: {}
 description: >-
   F R E S H es una revista digital que nace en Medellín, Colombia, con el el
   propósito de inspirar y empoderar a la mujer.
-starred: false
 sourcePath: _posts/2016-09-27-sobre-f-r-e-s-h.md
-_type: Blurb
+hasPage: true
+starred: false
+url: sobre-f-r-e-s-h/index.html
+_type: Article
 
 ---
 # Sobre F R E S H
