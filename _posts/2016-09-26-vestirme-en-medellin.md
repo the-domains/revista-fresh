@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-09-27T19:43:12.726Z'
+datePublished: '2016-09-27T19:51:10.358Z'
 sourcePath: _posts/2016-09-26-vestirme-en-medellin.md
 inFeed: true
 author:
   - name: Daniela Berrío
 via: {}
-dateModified: '2016-09-27T19:43:12.186Z'
+dateModified: '2016-09-27T19:51:09.790Z'
 title: Vestirme en Medellín
 publisher: {}
 description: >-
@@ -14,8 +14,10 @@ description: >-
   porque el clima cambió repentinamente o por que resultó un plan distinto de
   noche. Y si me quedo con la primera opción, me expongo a momentos de frío,
   lluvia o mucho calor entre los dos estados anteriores.
+hasPage: true
 starred: false
-_type: Blurb
+url: vestirme-en-medellin/index.html
+_type: Article
 
 ---
 ![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/527ac1d31adab38ea8a14972462d8914/croprotate.jpg?cropheight=3264&cropwidth=2448&degrees=-90&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F6bd2dbf2-b978-4142-ae7c-01ec7dec00b3.jpg&x=0&y=0)
