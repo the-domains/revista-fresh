@@ -1,4 +1,3 @@
-layout_spectrum: 0.8057627873495221
 typography_spectrum: 0.2476331638172269
 color:
   brandStrength: 0.697402051417157
@@ -12,6 +11,7 @@ color:
     - '#4D4D4D'
     - '#333333'
 github: true
+layout_spectrum: 0.8057627873495221
 name: revista FRESH
 title: F R E S H
-description: revista
+description: 'Somos más que Moda, Somos Estilo de Vida'
