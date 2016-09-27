@@ -1,20 +1,20 @@
 ---
-datePublished: '2016-09-27T20:23:26.592Z'
+datePublished: '2016-09-27T21:12:01.435Z'
 sourcePath: _posts/2016-09-26-vestirme-en-medellin.md
 inFeed: true
+hasPage: true
 author:
   - name: Daniela Berrío
 via: {}
-dateModified: '2016-09-27T20:23:26.179Z'
+dateModified: '2016-09-27T21:12:00.640Z'
 title: Vestirme en Medellín
 publisher: {}
 description: >-
-  Desde que llegue de España se me ha hecho difícil decidir cada mañana sobre mi
+  Desde que llegué de España se me ha hecho difícil decidir cada mañana sobre mi
   atuendo, ¡hay días en los que me cambio hasta tres veces! ¿te ha pasado? sea
   porque el clima cambió repentinamente o por que resultó un plan distinto de
   noche. Y si me quedo con la primera opción, me expongo a momentos de frío,
   lluvia o mucho calor entre los dos estados anteriores.
-hasPage: true
 starred: false
 url: vestirme-en-medellin/index.html
 _type: Article
@@ -24,7 +24,7 @@ _type: Article
 
 # Vestirme en Medellín
 
-Desde que llegue de España se me ha hecho difícil decidir cada mañana sobre mi atuendo, ¡hay días en los que me cambio hasta tres veces! ¿te ha pasado? sea porque el clima cambió repentinamente o por que resultó un plan distinto de noche. Y si me quedo con la primera opción, me expongo a momentos de frío, lluvia o mucho calor entre los dos estados anteriores.
+Desde que llegué de España se me ha hecho difícil decidir cada mañana sobre mi atuendo, ¡hay días en los que me cambio hasta tres veces! ¿te ha pasado? sea porque el clima cambió repentinamente o por que resultó un plan distinto de noche. Y si me quedo con la primera opción, me expongo a momentos de frío, lluvia o mucho calor entre los dos estados anteriores.
 
 ¡Superficial! sé que eso es lo que estás pensando al leer esto, pero es que aparte del clima hay un ingrediente más, algo tan importante que direcciona cada decisión en mi closet dependiendo del lugar al que voy, y es querida amiga, el MIEDO.
 
