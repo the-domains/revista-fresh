@@ -13,5 +13,9 @@ color:
 github: true
 layout_spectrum: 0.8057627873495221
 name: revista FRESH
+navigation:
+  - name: Moda & Belleza
+    id: d399b560-8bc7-4852-a721-5a8ed0cfd9dc
+    type: content
 title: F R E S H
 description: 'Somos más que Moda, Somos Estilo de Vida'
