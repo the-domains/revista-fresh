@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-10-03T21:31:06.933Z'
+datePublished: '2016-10-03T21:32:26.497Z'
 sourcePath: _posts/2016-09-26-vestirme-en-medellin.md
 inFeed: true
 hasPage: true
 author:
   - name: Daniela Berrío
 via: {}
-dateModified: '2016-10-03T21:31:06.141Z'
+dateModified: '2016-10-03T21:32:25.005Z'
 title: Vestirme en Medellín
 publisher: {}
 description: >-
