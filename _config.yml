@@ -17,5 +17,8 @@ navigation:
   - name: Sobre nosotros
     id: 809c411a-8e05-44e8-a848-bfe8b77c28bd
     type: content
+  - name: Moda & Belleza
+    id: 66571a98-f91c-415f-802b-6ea9ba0512ac
+    type: content
 title: F R E S H
 description: 'Somos más que Moda, Somos Estilo de Vida'
