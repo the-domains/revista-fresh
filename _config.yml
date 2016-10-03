@@ -14,9 +14,6 @@ github: true
 layout_spectrum: 0.8057627873495221
 name: revista F R E S H
 navigation:
-  - name: Moda & Belleza
-    id: d399b560-8bc7-4852-a721-5a8ed0cfd9dc
-    type: content
   - name: Sobre nosotros
     id: 809c411a-8e05-44e8-a848-bfe8b77c28bd
     type: content
