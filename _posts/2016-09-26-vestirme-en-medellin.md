@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-10-03T21:42:09.205Z'
+datePublished: '2016-10-19T18:34:04.529Z'
 sourcePath: _posts/2016-09-26-vestirme-en-medellin.md
 inFeed: true
 hasPage: true
 author:
   - name: Daniela Berrío
 via: {}
-dateModified: '2016-10-03T21:42:08.673Z'
+dateModified: '2016-10-19T18:34:03.837Z'
 title: Vestirme en Medellín
 publisher: {}
 description: >-
@@ -28,8 +28,8 @@ Desde que llegué de España se me ha hecho difícil decidir cada mañana sobre 
 
 ¡Superficial! sé que eso es lo que estás pensando al leer esto, pero es que aparte del clima hay un ingrediente más, algo tan importante que direcciona cada decisión en mi closet dependiendo del lugar al que voy, y es querida amiga, el MIEDO.
 
-Ese miedo a que me roben, por lo que no puedo irme muy llamativa: colores, marcas, joyería... hay que guardarlo mejor para ocasiones especiales, como si no pudieras sentirte especial todos los días, como si no pudieras ir a lugares especiales todos los días. Y sí, hay lugares increíbles en pleno centro de la ciudad precisamente de los cuales hay que "camuflarse", "disfrazarse", "aparentar", "sentirte normal".
+Y no es el miedo al que dirán, ese lo perdí hace rato, es más bien el miedo a que me roben, el no poder salir muy llamativa: colores, marcas, joyería... hay que guardarlo mejor para ocasiones especiales, como si no pudieras sentirte especial todos los días, como si no pudieras ir a lugares especiales todos los días. Y sí, hay lugares increíbles en pleno centro de la ciudad precisamente de los cuales hay que "camuflarse", "disfrazarse", "aparentar", "sentirte normal".
 
 ¡Exagerada! también es algo que puedas pensar, pero he decidido salir de la burbuja en la que vivo y experimentar la ciudad, verla de verdad. Pero ella no podrá verme realmente a mí, porque cada lugar está condicionado por qué "tan seguro es" y eso ya le da una "etiqueta" de vestimenta la cual no quiero seguir.
 
-¡Cambiar! pero por lo pronto somos "víctimas de Moda" aquí en Medellín.
+¡Cambiar! es el único remedio para no seguir siendo "víctimas de Moda" aquí en Medellín.
