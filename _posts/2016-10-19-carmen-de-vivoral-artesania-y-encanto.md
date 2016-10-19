@@ -1,16 +1,16 @@
 ---
-datePublished: '2016-10-19T20:04:33.710Z'
+datePublished: '2016-10-19T22:21:26.910Z'
 sourcePath: _posts/2016-10-19-carmen-de-vivoral-artesania-y-encanto.md
 inFeed: true
+hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-19T20:04:32.971Z'
+dateModified: '2016-10-19T22:21:26.083Z'
 title: 'Carmen de Vivoral: artesania y encanto'
 publisher: {}
 description: >-
-  Solo bastaron unas horas de un domingo de octubre para conocer los encantos de
-  un pueblo llamado Carmen.
-hasPage: true
+  Solo bastaron unas horas de un domingo para conocer los encantos de un pueblo
+  llamado Carmen.
 starred: false
 url: carmen-de-vivoral-artesania-y-encanto/index.html
 _context: 'http://schema.org'
@@ -21,9 +21,9 @@ _type: Article
 
 > "Un viajero sabio nunca desprecia a su propio país". -- Carlo Goldoni
 
-Solo bastaron unas horas de un domingo de octubre para conocer los encantos de un pueblo llamado Carmen.
+Solo bastaron unas horas de un domingo para conocer los encantos de un pueblo llamado Carmen.
 
-La cerámica, ese arte de fabricar objetos de barro se encuentra por todas sus calles, sea decorando sus andenes y fachadas o dentro de almacenes conducidos por familias que tienen ese "saber hacer" pasado de generación en generación.
+La cerámica, ese arte de fabricar objetos de barro se encuentra por todas sus calles, decorando sus andenes y fachadas, dentro de almacenes conducidos por familias que tienen ese "saber hacer" pasado de generación en generación.
 
 Y es que vale la pena ir a conocer y comprar, así es, comprar. Ya que si eres de esas personas que les gusta tener objetos singulares, estéticamente agradables, de calidad y hechos a mano, el Carmen es tu lugar.
 
