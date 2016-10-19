@@ -1,16 +1,18 @@
 ---
-datePublished: '2016-10-19T20:03:56.902Z'
+datePublished: '2016-10-19T20:04:33.710Z'
 sourcePath: _posts/2016-10-19-carmen-de-vivoral-artesania-y-encanto.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-10-19T20:03:56.288Z'
+dateModified: '2016-10-19T20:04:32.971Z'
 title: 'Carmen de Vivoral: artesania y encanto'
 publisher: {}
 description: >-
   Solo bastaron unas horas de un domingo de octubre para conocer los encantos de
   un pueblo llamado Carmen.
+hasPage: true
 starred: false
+url: carmen-de-vivoral-artesania-y-encanto/index.html
 _context: 'http://schema.org'
 _type: Article
 
