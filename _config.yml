@@ -14,14 +14,14 @@ github: true
 layout_spectrum: 0.8057627873495221
 name: revista F R E S H
 navigation:
-  - name: Sobre nosotros
-    id: 809c411a-8e05-44e8-a848-bfe8b77c28bd
-    type: content
   - name: Moda & Belleza
     id: 66571a98-f91c-415f-802b-6ea9ba0512ac
     type: content
   - name: Viajes & Lugares
     id: 2da77a06-5cf4-42f9-8f7d-374efa3d749f
+    type: content
+  - name: Sobre nosotros
+    id: 809c411a-8e05-44e8-a848-bfe8b77c28bd
     type: content
 title: F R E S H
 content: []
