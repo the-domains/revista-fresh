@@ -1,16 +1,16 @@
 ---
-datePublished: '2016-10-19T20:02:57.160Z'
+datePublished: '2016-10-19T20:03:56.902Z'
+sourcePath: _posts/2016-10-19-carmen-de-vivoral-artesania-y-encanto.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-10-19T20:01:48.916Z'
+dateModified: '2016-10-19T20:03:56.288Z'
 title: 'Carmen de Vivoral: artesania y encanto'
 publisher: {}
 description: >-
   Solo bastaron unas horas de un domingo de octubre para conocer los encantos de
   un pueblo llamado Carmen.
 starred: false
-sourcePath: _posts/2016-10-19-carmen-de-vivoral-artesania-y-encanto.md
 _context: 'http://schema.org'
 _type: Article
 
@@ -29,7 +29,8 @@ y aquí te dejamos dos tiendas a las que no puedes faltar.
 
 PD: si estas pensando que es extremadamente costoso y mejor no quieres ir, estas pensando mal, hay para todos los bolsillos y gustos.
 
-Y también te doy un pequeño secreto; pregunta por los saldos. ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/35de2388243b4dc55d676fb73d96a4efab5ddc40.jpg)
+Y también te doy un pequeño secreto; pregunta por los saldos.
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/35de2388243b4dc55d676fb73d96a4efab5ddc40.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/96b18edb-9356-4515-b8a2-17475da312e1.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bb79c2d4-579d-4549-9120-d1c063cf70f0.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/43f9f276-573a-4160-b590-b8fad2303d56.jpg)
