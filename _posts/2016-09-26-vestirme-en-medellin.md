@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-10-19T18:34:04.529Z'
+datePublished: '2016-10-31T16:32:25.996Z'
 sourcePath: _posts/2016-09-26-vestirme-en-medellin.md
 inFeed: true
 hasPage: true
 author:
   - name: Daniela Berrío
 via: {}
-dateModified: '2016-10-19T18:34:03.837Z'
+dateModified: '2016-10-31T16:32:25.314Z'
 title: Vestirme en Medellín
 publisher: {}
 description: >-
@@ -20,7 +20,7 @@ url: vestirme-en-medellin/index.html
 _type: Article
 
 ---
-![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/527ac1d31adab38ea8a14972462d8914/croprotate.jpg?cropheight=3264&cropwidth=2448&degrees=-90&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F6bd2dbf2-b978-4142-ae7c-01ec7dec00b3.jpg&x=0&y=0)
+![Me divierto buscando tesoros, por lo que siempre ando buscando; la moda, uno de los ingredientes principales de mi vida, si, soy una chica Vogue o ya Fresh...](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/527ac1d31adab38ea8a14972462d8914/croprotate.jpg?cropheight=3264&cropwidth=2448&degrees=-90&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F6bd2dbf2-b978-4142-ae7c-01ec7dec00b3.jpg&x=0&y=0)
 
 # Vestirme en Medellín
 
