@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-10-31T17:04:58.890Z'
+datePublished: '2016-10-31T19:26:19.077Z'
 sourcePath: _posts/2016-09-27-sobre-f-r-e-s-h.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-31T17:04:58.322Z'
-title: Sobre F R E S H
+dateModified: '2016-10-31T19:26:18.243Z'
+title: 'Sobre M i l a '
 publisher: {}
 description: >-
   Somos una revista digital que nace en Medellín, Colombia, con el propósito de
@@ -16,7 +16,7 @@ url: sobre-f-r-e-s-h/index.html
 _type: Article
 
 ---
-# Sobre F R E S H
+# Sobre M i l a 
 
 **Somos** una revista digital que nace en Medellín, Colombia, con el propósito de inspirar a la mujer.
 
