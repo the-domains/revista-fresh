@@ -1,16 +1,16 @@
 ---
-datePublished: '2016-10-31T16:19:53.770Z'
+datePublished: '2016-10-31T17:04:58.890Z'
 sourcePath: _posts/2016-09-27-sobre-f-r-e-s-h.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-31T16:19:53.325Z'
+dateModified: '2016-10-31T17:04:58.322Z'
 title: Sobre F R E S H
 publisher: {}
 description: >-
-  F R E S H es una revista digital que nace en Medellín, Colombia, con el
-  propósito de inspirar a la mujer.
+  Somos una revista digital que nace en Medellín, Colombia, con el propósito de
+  inspirar a la mujer.
 starred: false
 url: sobre-f-r-e-s-h/index.html
 _type: Article
@@ -18,7 +18,7 @@ _type: Article
 ---
 # Sobre F R E S H
 
-**F R E S H **es una revista digital que nace en Medellín, Colombia, con el propósito de inspirar a la mujer.
+**Somos** una revista digital que nace en Medellín, Colombia, con el propósito de inspirar a la mujer.
 
 Buscamos entretener y ofrecer una perspectiva inteligente de la moda, enfocándonos en el estilo personal y mostrando ese universo femenino de una forma fresca. Junto con ambiciosos periodistas, fotógrafos y artistas locales, se mostrarán personajes inspiracionales a través de una combinación de elegancia, personalidad y encanto.
 
