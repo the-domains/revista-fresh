@@ -1,14 +1,18 @@
 ---
-datePublished: '2016-10-31T16:32:25.996Z'
+datePublished: '2016-10-31T16:38:15.051Z'
 sourcePath: _posts/2016-09-26-vestirme-en-medellin.md
 inFeed: true
 hasPage: true
 author:
   - name: Daniela Berrío
 via: {}
-dateModified: '2016-10-31T16:32:25.314Z'
+dateModified: '2016-10-31T16:38:14.421Z'
 title: Vestirme en Medellín
-publisher: {}
+publisher:
+  name: >-
+    Me divierto buscando tesoros, por lo que siempre ando buscando. La moda, uno
+    de los ingredientes principales de mi vida. Si, soy una chica Vogue, o ya
+    Fresh...
 description: >-
   Desde que llegué de España se me ha hecho difícil decidir cada mañana sobre mi
   atuendo, ¡hay días en los que me cambio hasta tres veces! ¿te ha pasado? sea
@@ -20,7 +24,7 @@ url: vestirme-en-medellin/index.html
 _type: Article
 
 ---
-![Me divierto buscando tesoros, por lo que siempre ando buscando; la moda, uno de los ingredientes principales de mi vida, si, soy una chica Vogue o ya Fresh...](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/527ac1d31adab38ea8a14972462d8914/croprotate.jpg?cropheight=3264&cropwidth=2448&degrees=-90&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F6bd2dbf2-b978-4142-ae7c-01ec7dec00b3.jpg&x=0&y=0)
+![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/527ac1d31adab38ea8a14972462d8914/croprotate.jpg?cropheight=3264&cropwidth=2448&degrees=-90&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F6bd2dbf2-b978-4142-ae7c-01ec7dec00b3.jpg&x=0&y=0)
 
 # Vestirme en Medellín
 
