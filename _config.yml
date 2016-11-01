@@ -26,7 +26,4 @@ navigation:
 title: F R E S H
 content: []
 description: 'Buscamos inspirarte, mostrándote lo más Fresh!'
-purpose:
-  - type: external
-    url: 'https://www.facebook.com/revistafreshcolombia/'
-    label: 'https://www.facebook.com/revistafreshcolombia/'
+purpose: []
