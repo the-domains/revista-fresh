@@ -12,7 +12,7 @@ color:
     - '#333333'
 github: true
 layout_spectrum: 0.8057627873495221
-name: M I L A
+name: F R E S H
 navigation:
   - name: Moda & Belleza
     id: 66571a98-f91c-415f-802b-6ea9ba0512ac
@@ -26,3 +26,7 @@ navigation:
 title: F R E S H
 content: []
 description: 'Buscamos inspirarte, mostrándote lo más Fresh!'
+purpose:
+  - type: external
+    url: 'https://www.facebook.com/revistafreshcolombia/'
+    label: 'https://www.facebook.com/revistafreshcolombia/'
